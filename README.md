@@ -1,4 +1,3 @@
-flightjs-of-icarus
-==================
+##Fligh of Icarus!
 
 Playing with Flight
